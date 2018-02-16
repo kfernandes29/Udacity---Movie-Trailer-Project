@@ -14,7 +14,6 @@ Open the project folder in your terminal or command prompt and run the python sc
 
 ```javascript
 python -u entertainment_center.py
-
 ```
 
 ## Authors
