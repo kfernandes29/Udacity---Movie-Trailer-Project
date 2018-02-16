@@ -20,11 +20,11 @@ python -u entertainment_center.py
 
 * **Kevin Fernandes** - [Tapp-That Apps](http://www.tappthatapps.com)
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 * **Full Stack Nano Degree Program** - [Udacity](http://www.udacity.com)
 * **Project Starter Code** - [Udacity Movie Trailer Website Project - Starter Code](https://github.com/udacity/ud036_StarterCode)
+
+## License
+
+This project is licensed under the MIT License.
