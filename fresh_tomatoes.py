@@ -62,6 +62,12 @@ movie_tile_content = '''
 '''
 
 def create_movie_tiles_content(movies):
+    """
+        Creates HTML content for each Movie instance in list passed to method.
+        Method: create_movie_tiles_content
+        Args:
+            movies (list): List of Movie instances
+    """
     # The HTML content for this section of the page
     content = ''
     for movie in movies:
@@ -82,6 +88,12 @@ def create_movie_tiles_content(movies):
     return content
 
 def open_movies_page(movies):
+    """
+        Generates HTML and opens file in default browser.
+        Method: open_movies_page
+        Args:
+            movies (list): List of Movie instances
+    """
 
     # Create or overwrite the output file
     output_file = open('index.html', 'w')
